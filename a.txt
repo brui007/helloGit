@@ -1,4 +1,0 @@
-Git基本常用命令如下：
-
-	git config --list 查看所有配置信息
-	mkdir xx 创建一个文件夹(xx指文件夹)
